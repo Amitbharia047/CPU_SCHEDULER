@@ -89,14 +89,16 @@ npm install
 
 
 ## 👨‍💻 Author  
-Prem Kumar  
-- GitHub: https://github.com/Premkumar282  
-- LinkedIn: https://www.linkedin.com/in/prem-kumar05/
+Amit Bharia  
+- GitHub: https://github.com/Amitbharia047 
+- LinkedIn:https://www.linkedin.com/in/amit-bharia-36bb35321
 
 
 ## 📌 Repository  
-https://github.com/Premkumar282/cpu-scheduler-simulator
+https://github.com/Amitbharia047/CPU_SCHEDULER
 
 
-
+## CoAuthor
+Anirudh
+-Github:https://github.com/0nirudh
 

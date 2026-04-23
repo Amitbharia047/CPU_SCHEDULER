@@ -5,7 +5,7 @@ Built with **React + TypeScript + Vite**, styled using **Tailwind CSS** and **sh
 ---
 
 ## 🔗 Live Demo  
-👉 **View Live Project:** [https://your-vercel-link-here](https://cpu-scheduler-simulator-iota.vercel.app/)  
+👉 **View Live Project:** https://cpu-scheduler-simulator-iota.vercel.app 
 
 
 ---
